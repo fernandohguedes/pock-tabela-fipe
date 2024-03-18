@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: tabela-fipe
+
+server:
+  port: 8085
